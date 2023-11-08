@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajayreddycmrec
 - 👀 I’m interested in programming , Artificial intelligence and Machine learning
-- 🌱 I’m currently pursuing my engineering 2nd year
+- 🌱 I’m currently pursuing my engineering 3rd year
 - 💞️ I’m looking to collaborate on AI and ML
 - 📫 How to reach me through my email Ajay.pandiri9@gmail.com
 
